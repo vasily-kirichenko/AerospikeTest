@@ -1,0 +1,7 @@
+/home/kot/github/AerospikeTest/AerospikeReader/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/kot/github/AerospikeTest/AerospikeReader/bin/Debug/AerospikeReader.exe.mdb
+/home/kot/github/AerospikeTest/AerospikeReader/bin/Debug/AerospikeReader.exe
+/home/kot/github/AerospikeTest/AerospikeReader/obj/x86/Debug/AerospikeReader.exe
+/home/kot/github/AerospikeTest/AerospikeReader/obj/x86/Debug/AerospikeReader.exe.mdb
+/home/kot/github/AerospikeTest/AerospikeReader/bin/Debug/Neo.Lua.dll
+/home/kot/github/AerospikeTest/AerospikeReader/bin/Debug/AerospikeClient.dll

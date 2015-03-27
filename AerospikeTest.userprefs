@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="AerospikeReader/AerospikeReader.fsproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AerospikeTest/Program.fs">
+    <Files>
+      <File FileName="AerospikeTest/Program.fs" Line="5" Column="1" />
+      <File FileName="AerospikeReader/Program.fs" Line="12" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
